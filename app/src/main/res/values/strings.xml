@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bangla Newspaper</string>
+
+    <string-array name="newspaper_names">
+        <item>Protom Alo</item>
+        <item>Kaler Kantho</item>
+        <item>Manab Zamin</item>
+        <item>Inqilab</item>
+        <item>Naya Diganta</item>
+        <item>Ittefaq</item>
+        <item>Bhorer Pata</item>
+        <item>purbokone</item>
+    </string-array>
+</resources>
